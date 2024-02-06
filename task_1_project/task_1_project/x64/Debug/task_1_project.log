@@ -1,0 +1,4 @@
+﻿  task_1_project.cpp
+C:\Users\Tony\Desktop\guap\2_semestr\lab_2\task_1_project\task_1_project\task_1_project.cpp(16,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Tony\Desktop\guap\2_semestr\lab_2\task_1_project\task_1_project\task_1_project.cpp(16,22): warning C4305: инициализация: усечение из "double" в "const float"
+  task_1_project.vcxproj -> C:\Users\Tony\Desktop\guap\2_semestr\lab_2\task_1_project\x64\Debug\task_1_project.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Tony\Desktop\guap\2_semestr\lab_2\task_1\main.cpp(16,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Tony\Desktop\guap\2_semestr\lab_2\task_1\main.cpp(16,22): warning C4305: инициализация: усечение из "double" в "const float"
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ WinMain в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\Tony\Desktop\guap\2_semestr\lab_2\task_1\x64\Debug\task_1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

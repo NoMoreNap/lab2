@@ -16,11 +16,11 @@ int main() {
         cin>>a[i];
     }
 
-    for (j = 0; j < 9 ; j++) {
-        if (a[j] % 3 == 0 ) {
-            cout << setw(6) << a[j] << "\n";
+    for (j = 1; j < 10 ; j++) {
+        if (j % 3 == 0 ) {
+            cout << setw(6) << a[j-1] << "\n";
         } else {
-            cout << setw(6) << a[j];
+            cout << setw(6) << a[j-1];
         }
     }
 
